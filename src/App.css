@@ -76,6 +76,12 @@ h1 {
 
 .fa-trash {
   margin-left: 0.75rem;
+  cursor: pointer;
+}
+
+.fa-pen-to-square {
+  margin-left: 0.75rem;
+  cursor: pointer;
 }
 
 .incompleted {
