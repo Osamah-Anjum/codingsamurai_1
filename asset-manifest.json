@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codingsamurai_1/static/css/main.9bbc15d0.css",
+    "main.js": "/codingsamurai_1/static/js/main.5faac387.js",
+    "static/js/787.46b4471a.chunk.js": "/codingsamurai_1/static/js/787.46b4471a.chunk.js",
+    "index.html": "/codingsamurai_1/index.html",
+    "main.9bbc15d0.css.map": "/codingsamurai_1/static/css/main.9bbc15d0.css.map",
+    "main.5faac387.js.map": "/codingsamurai_1/static/js/main.5faac387.js.map",
+    "787.46b4471a.chunk.js.map": "/codingsamurai_1/static/js/787.46b4471a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bbc15d0.css",
+    "static/js/main.5faac387.js"
+  ]
+}
